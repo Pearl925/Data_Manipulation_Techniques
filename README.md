@@ -1,4 +1,3 @@
-# Data_Manipulation_Techniques
 # 📊 Data Manipulation Techniques
 
 Data manipulation is essential for cleaning, transforming, and structuring raw data for analysis. Below are the key steps involved:
